@@ -1,0 +1,152 @@
+Country,GenderGapScore
+Iceland,0.858
+Norway,0.835
+Sweden,0.822
+Finland,0.821
+Nicaragua,0.809
+Rwanda,0.804
+New Zealand,0.801
+Philippines,0.799
+Ireland,0.796
+Namibia,0.789
+Slovenia,0.784
+France,0.779
+Denmark,0.778
+Germany,0.776
+United Kingdom,0.774
+Canada,0.771
+Latvia,0.758
+Bulgaria,0.756
+South Africa,0.755
+Switzerland,0.755
+Barbados,0.753
+Costa Rica,0.749
+Cuba,0.749
+Lithuania,0.749
+Bolivia,0.748
+Lao PDR,0.748
+Netherlands,0.747
+Belarus,0.747
+Spain,0.746
+Bahamas,0.741
+Burundi,0.741
+Belgium,0.738
+Estonia,0.734
+Albania,0.734
+Moldova,0.733
+Argentina,0.733
+Portugal,0.732
+Serbia,0.73
+Australia,0.73
+Colombia,0.729
+Ecuador,0.729
+Poland,0.728
+Uganda,0.724
+Jamaica,0.724
+Panama,0.722
+Israel,0.722
+Zimbabwe,0.721
+Bangladesh,0.721
+Mozambique,0.721
+Mexico,0.721
+United States,0.72
+Peru,0.72
+Austria,0.718
+Chile,0.717
+Botswana,0.715
+Uruguay,0.715
+Cameroon,0.714
+Mongolia,0.714
+Croatia,0.712
+Kazakhstan,0.712
+Luxembourg,0.712
+Bosnia and Herzegovina,0.712
+Romania,0.711
+Venezuela,0.709
+Ukraine,0.708
+"Macedonia, FYR",0.707
+Singapore,0.707
+Honduras,0.706
+Montenegro,0.706
+Italy,0.706
+Tanzania,0.704
+Cape Verde,0.702
+Thailand,0.702
+Dominican Republic,0.701
+Russian Federation,0.701
+Country,Score (0–1)
+Kenya,0.7
+Viet Nam,0.698
+Greece,0.696
+Suriname,0.695
+Eswatini,0.694
+Lesotho,0.693
+Czech Republic,0.693
+Slovak Republic,0.693
+Madagascar,0.691
+Indonesia,0.691
+Kyrgyz Republic,0.691
+El Salvador,0.69
+Myanmar,0.69
+Ghana,0.688
+Brunei Darussalam,0.686
+Malta,0.686
+Cyprus,0.684
+Cambodia,0.683
+Senegal,0.682
+Brazil,0.681
+Liberia,0.681
+Azerbaijan,0.68
+Armenia,0.678
+Georgia,0.677
+Sri Lanka,0.676
+Malaysia,0.676
+Hungary,0.674
+China,0.673
+Paraguay,0.672
+Nepal,0.671
+Fiji,0.669
+Guatemala,0.668
+India,0.665
+Mauritius,0.663
+Japan,0.662
+Belize,0.662
+Malawi,0.662
+Maldives,0.662
+Sierra Leone*,0.661
+"Korea, Rep.",0.657
+Guinea,0.656
+Ethiopia,0.656
+Benin,0.654
+Tunisia,0.648
+"Gambia, The",0.642
+United Arab Emirates,0.642
+Bhutan,0.638
+Tajikistan,0.638
+Timor-Leste,0.638
+Angola,0.633
+Kuwait,0.63
+Qatar,0.629
+Algeria,0.629
+Burkina Faso,0.629
+Turkey,0.628
+Côte d'Ivoire,0.627
+Bahrain,0.627
+Nigeria,0.621
+Togo*,0.618
+Egypt,0.614
+Mauritania,0.607
+Morocco,0.607
+Jordan,0.605
+Oman*,0.605
+Lebanon,0.595
+Saudi Arabia,0.59
+"Iran, Islamic Rep.",0.589
+Mali,0.582
+"Congo, Dem. Rep.*",0.582
+Chad,0.58
+Syria,0.568
+Iraq*,0.551
+Pakistan,0.55
+Yemen,0.499
+* New countries in 2018,

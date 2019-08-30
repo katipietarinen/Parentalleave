@@ -1,0 +1,439 @@
+Year,Country,Value
+1998,Australia,60
+2000,Australia,60
+2002,Australia,58.7
+2004,Australia,60.9
+2006,Australia,60.2
+2008,Australia,56.3
+2010,Australia,59.58160955
+2012,Australia,58.06535567
+2014,Australia,59.91372779
+2016,Australia,59.15541539
+2000,Austria,98
+2005,Austria,98
+2008,Austria,98
+2010,Austria,98
+2013,Austria,98
+2014,Austria,98
+2015,Austria,98
+2016,Austria,98
+2000,Belgium,96
+2002,Belgium,96
+2008,Belgium,96
+2013,Belgium,96
+2015,Belgium,96
+2016,Belgium,96
+1998,Canada,33
+1999,Canada,32.3
+2000,Canada,32.3
+2001,Canada,32.3
+2002,Canada,32.2
+2003,Canada,32.2
+2004,Canada,31.7
+2005,Canada,32
+2006,Canada,31.7
+2007,Canada,31.6
+2008,Canada,31.2
+2009,Canada,31.5
+2010,Canada,31.4
+2011,Canada,31
+2012,Canada,31.3
+2013,Canada,31.1
+2014,Canada,30.4
+2015,Canada,30.6
+2016,Canada,30.3
+1998,Czech Republic,48.58913423
+1999,Czech Republic,51.1046378
+2000,Czech Republic,47.95081451
+2001,Czech Republic,38.29331317
+2002,Czech Republic,42.96382259
+2003,Czech Republic,45.95305635
+2004,Czech Republic,43.3917453
+2005,Czech Republic,41.63070264
+2006,Czech Republic,50.06923153
+2007,Czech Republic,50.2286983
+2008,Czech Republic,49.62838362
+2009,Czech Republic,44.287351
+2010,Czech Republic,51.05895251
+2011,Czech Republic,49.20759257
+2012,Czech Republic,49.69112381
+2013,Czech Republic,48.91914074
+2014,Czech Republic,45.36064759
+2015,Czech Republic,46.26975068
+2000,Denmark,85
+2004,Denmark,85
+2006,Denmark,84
+2007,Denmark,81
+2009,Denmark,82
+2010,Denmark,83
+2013,Denmark,84
+2015,Denmark,84
+2000,Finland,85
+2002,Finland,91
+2003,Finland,91
+2004,Finland,91
+2005,Finland,87.7
+2006,Finland,87.7
+2008,Finland,87.5
+2009,Finland,78.43342873
+2010,Finland,77.8144933
+2011,Finland,90
+2012,Finland,89.74418713
+2013,Finland,93
+2014,Finland,89.3
+2015,Finland,89.31518645
+2004,France,96.0796434
+2008,France,98
+2009,France,98
+2012,France,98
+2014,France,98.45747412
+1998,Germany,73.6
+1999,Germany,70.6
+2000,Germany,67.75
+2001,Germany,68.75
+2002,Germany,67.75
+2003,Germany,67.6
+2004,Germany,65.75
+2005,Germany,64.9
+2006,Germany,63.35
+2007,Germany,61.65
+2008,Germany,61.35
+2009,Germany,61.74
+2010,Germany,59.76
+2011,Germany,58.9
+2012,Germany,58.3
+2013,Germany,57.6
+2014,Germany,57.8
+2015,Germany,56.8
+2016,Germany,56
+2000,Greece,82
+2001,Greece,82
+2002,Greece,82
+2003,Greece,82
+2004,Greece,82
+2005,Greece,82
+2006,Greece,82
+2007,Greece,83
+2008,Greece,83
+2009,Greece,83
+2010,Greece,64
+2011,Greece,60
+2012,Greece,51
+2013,Greece,40
+1999,Hungary,42.42026677
+2001,Hungary,35.64072579
+2003,Hungary,34.24309953
+2005,Hungary,24.75035081
+2007,Hungary,24.56430563
+2009,Hungary,26.8644192
+2010,Hungary,27.3298143
+2011,Hungary,26.44767261
+2012,Hungary,26.40762559
+2013,Hungary,25.53948159
+2014,Hungary,22.7971153
+2000,Iceland,87
+2002,Iceland,89
+2008,Iceland,88
+2013,Iceland,89
+2016,Iceland,90
+2000,Ireland,44.22
+2005,Ireland,41.73
+2009,Ireland,40.485
+2014,Ireland,33.51549922
+2000,Italy,80
+2001,Italy,80
+2002,Italy,80
+2003,Italy,80
+2004,Italy,80
+2005,Italy,80
+2006,Italy,80
+2007,Italy,80
+2008,Italy,80
+2009,Italy,80
+2010,Italy,80
+2011,Italy,80
+2012,Italy,80
+2013,Italy,80
+2014,Italy,80
+2015,Italy,80
+2000,Japan,21.1
+2005,Japan,19
+2006,Japan,18
+2007,Japan,17.8
+2008,Japan,17.6
+2009,Japan,17.9
+2010,Japan,17.6
+2011,Japan,17.8
+2012,Japan,17.5
+2013,Japan,17.1
+2014,Japan,16.9
+2015,Japan,16.8
+2016,Japan,16.7
+1998,Korea,13.29984456
+1999,Korea,13.63959545
+2000,Korea,13.3325171
+2001,Korea,13.3970245
+2002,Korea,12.65116357
+2003,Korea,12.55354974
+2004,Korea,12.03638942
+2005,Korea,11.56996875
+2006,Korea,11.69579692
+2007,Korea,12.32950949
+2008,Korea,11.98993352
+2009,Korea,11.62682848
+2010,Korea,11.29408955
+2011,Korea,11.53221908
+2012,Korea,11.73159402
+2013,Korea,11.8
+2014,Korea,11.9
+2015,Korea,11.8
+1998,Luxembourg,60
+2000,Luxembourg,60
+2001,Luxembourg,59
+2002,Luxembourg,58
+2003,Luxembourg,58
+2004,Luxembourg,58
+2005,Luxembourg,58
+2006,Luxembourg,58
+2007,Luxembourg,58
+2008,Luxembourg,59
+2011,Luxembourg,54.22178791
+2014,Luxembourg,55
+2009,Mexico,13.64730864
+2010,Mexico,12.33148832
+2011,Mexico,13.12981546
+2012,Mexico,12.51161722
+2000,Netherlands,81.70174916
+2001,Netherlands,85.86264081
+2002,Netherlands,92.74650744
+2003,Netherlands,80.40369121
+2004,Netherlands,84.92038714
+2005,Netherlands,86.82856077
+2006,Netherlands,66.8228272
+2007,Netherlands,79.08227525
+2008,Netherlands,78.6323984
+2009,Netherlands,82.8040271
+2010,Netherlands,89.65192189
+2011,Netherlands,87.16987707
+2012,Netherlands,85.0613072
+2013,Netherlands,85.68611505
+2014,Netherlands,85.93388412
+2015,Netherlands,79.40774191
+2016,Netherlands,78.56877536
+1998,New Zealand,25
+1999,New Zealand,25
+2000,New Zealand,20
+2001,New Zealand,20
+2002,New Zealand,19
+2003,New Zealand,18
+2007,New Zealand,17.8
+2010,New Zealand,15.6
+2011,New Zealand,15.3
+2016,New Zealand,15.9
+1998,Norway,71
+2002,Norway,70.48
+2006,Norway,70
+2009,Norway,67.96
+2013,Norway,68
+2014,Norway,67
+2000,Poland,25
+2007,Poland,15.74330909
+2011,Poland,14.85548922
+2012,Poland,14.68153643
+1999,Portugal,68.99353517
+2000,Portugal,78.43472317
+2001,Portugal,73.74878482
+2002,Portugal,72.46052097
+2003,Portugal,80.06865913
+2004,Portugal,80.21816656
+2005,Portugal,83.20181701
+2006,Portugal,80.23783749
+2007,Portugal,86.04634375
+2008,Portugal,85.92643866
+2009,Portugal,84.106869
+2010,Portugal,76.74107107
+2011,Portugal,75.65762816
+2012,Portugal,73.25706664
+2013,Portugal,74.47190657
+2014,Portugal,72.6510731
+2015,Portugal,72.26201014
+2000,Slovak Republic,51
+2001,Slovak Republic,48
+2002,Slovak Republic,48
+2004,Slovak Republic,40
+2006,Slovak Republic,40
+2008,Slovak Republic,40
+2011,Slovak Republic,35
+2013,Slovak Republic,30
+2015,Slovak Republic,24.4
+1998,Spain,92.55611325
+1999,Spain,86.5870148
+2000,Spain,82.87087464
+2001,Spain,81.4887012
+2002,Spain,79.02963524
+2003,Spain,77.66595279
+2004,Spain,76.12800289
+2005,Spain,76.01391045
+2006,Spain,75.39607468
+2007,Spain,76.0137403
+2008,Spain,78.87685776
+2009,Spain,80.87752301
+2010,Spain,76.942746
+2011,Spain,76.98116695
+2012,Spain,77.02310541
+2013,Spain,81.09272554
+2014,Spain,80.16306599
+2015,Spain,76.9308189
+2016,Spain,73.0748054
+1998,Sweden,94
+2000,Sweden,94
+2002,Sweden,94
+2005,Sweden,94
+2007,Sweden,91
+2011,Sweden,88
+2013,Sweden,89
+2015,Sweden,90
+1999,Switzerland,44.93083022
+2001,Switzerland,39.86885722
+2003,Switzerland,41.68637996
+2005,Switzerland,44.60821719
+2007,Switzerland,44.69495043
+2009,Switzerland,44.73452087
+2010,Switzerland,47.2327428
+2012,Switzerland,49.68485607
+2013,Switzerland,49.44600241
+2014,Switzerland,49.22948356
+1998,Turkey,15.56103933
+1999,Turkey,13.27719855
+2000,Turkey,12.55968868
+2001,Turkey,12.45333218
+2002,Turkey,11.87509579
+2003,Turkey,11.23413592
+2004,Turkey,10.39863042
+2005,Turkey,10.26194087
+2006,Turkey,9.373746923
+2007,Turkey,8.2847378
+2008,Turkey,7.257594891
+2009,Turkey,7.711661361
+2010,Turkey,7.001367173
+2011,Turkey,5.617741006
+2012,Turkey,5.401396707
+2013,Turkey,6.536190729
+2014,Turkey,6.631998165
+2015,Turkey,6.660539931
+2016,Turkey,7.021995874
+1998,United Kingdom,35.4
+1999,United Kingdom,36.1
+2000,United Kingdom,36.4
+2001,United Kingdom,35.5
+2002,United Kingdom,35.2
+2003,United Kingdom,35.5
+2004,United Kingdom,34.7
+2005,United Kingdom,34.9
+2006,United Kingdom,33.3
+2007,United Kingdom,34.6
+2008,United Kingdom,33.6
+2009,United Kingdom,32.7
+2010,United Kingdom,30.9
+2011,United Kingdom,31.2
+2012,United Kingdom,29.3
+2013,United Kingdom,29.5
+2014,United Kingdom,27.5
+2015,United Kingdom,27.9
+2016,United Kingdom,26.3
+1998,United States,15.4
+1999,United States,15.3
+2000,United States,14.9
+2001,United States,14.7
+2002,United States,14.5
+2003,United States,14.3
+2004,United States,13.8
+2005,United States,13.7
+2006,United States,13.1
+2007,United States,13.3
+2008,United States,13.7
+2009,United States,13.6
+2010,United States,13.1
+2011,United States,13
+2012,United States,12.5
+2013,United States,12.4
+2014,United States,12.3
+2015,United States,12.3
+2016,United States,12
+1998,OECD - Total,38.29385304
+1999,OECD - Total,37.92645047
+2000,OECD - Total,37.40192387
+2001,OECD - Total,37.3368271
+2002,OECD - Total,37.23518076
+2003,OECD - Total,36.75594551
+2004,OECD - Total,36.20474639
+2005,OECD - Total,36.02134979
+2006,OECD - Total,35.08018764
+2007,OECD - Total,35.31058098
+2008,OECD - Total,35.45093224
+2009,OECD - Total,35.56758161
+2010,OECD - Total,34.63667334
+2011,OECD - Total,34.43055515
+2012,OECD - Total,33.54441028
+2013,OECD - Total,33.31305505
+2014,OECD - Total,32.97249638
+2015,OECD - Total,32.62415095
+2016,OECD - Total,32.22440072
+2009,Chile,17.00131526
+2010,Chile,16.21122364
+2011,Chile,16.86500244
+2012,Chile,17.82236389
+2013,Chile,18.41983009
+2014,Chile,19.3305778
+2015,Chile,20.09245123
+2016,Chile,20.86490558
+2001,Estonia,28
+2003,Estonia,28
+2004,Estonia,28
+2007,Estonia,25
+2009,Estonia,24
+2011,Estonia,22.87258196
+2012,Estonia,23
+2015,Estonia,18.6
+2000,Israel,56.1
+2007,Israel,45
+2012,Israel,26.1
+2002,Latvia,18
+2005,Latvia,15
+2007,Latvia,21.5
+2009,Latvia,20.66932073
+2010,Latvia,20.36126976
+2011,Latvia,19.76827911
+2012,Latvia,19.35255275
+2013,Latvia,15.32719739
+2014,Latvia,15.27098444
+2015,Latvia,14.84984515
+2016,Latvia,13.75012047
+2002,Lithuania,15
+2003,Lithuania,14.95826177
+2006,Lithuania,10.72921936
+2007,Lithuania,10.20079026
+2008,Lithuania,9.748492542
+2009,Lithuania,10.94687823
+2010,Lithuania,11.13848921
+2011,Lithuania,10.6879015
+2012,Lithuania,9.91715872
+2015,Lithuania,7.05
+1998,Slovenia,100
+1999,Slovenia,100
+2000,Slovenia,100
+2001,Slovenia,100
+2002,Slovenia,100
+2003,Slovenia,100
+2004,Slovenia,100
+2005,Slovenia,100
+2006,Slovenia,96
+2007,Slovenia,94
+2008,Slovenia,92
+2009,Slovenia,92
+2010,Slovenia,80
+2011,Slovenia,75
+2012,Slovenia,70
+2013,Slovenia,65
+2014,Slovenia,65
+2015,Slovenia,65
