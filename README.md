@@ -33,7 +33,7 @@ Scandinavian counties, based on Wikipedia page https://en.wikipedia.org/wiki/Sca
 
 Score in World Economic Forum global gender gap report: http://www3.weforum.org/docs/WEF_GGGR_2018.pdf (Converted from pdf to csv in Tabula.) 
 
-Welfare regime, based on table in Ebbinghaus, Bernard 2012. Comparing Welfare State Regimes: Are Typologies an Ideal or Realistic Strategy? http://www.cas.ed.ac.uk/__data/assets/pdf_file/0005/89033/Ebbinghaus_-_Stream_2.pdf 
+Welfare regime, based on table in Ebbinghaus, Bernard 2012. Comparing Welfare State Regimes: Are Typologies an Ideal or Realistic Strategy? http://www.cas.ed.ac.uk/__data/assets/pdf_file/0005/89033/Ebbinghaus_-_Stream_2.pdf (Converted from pdf to csv in Tabula)
 
 
 Folder 2: Vizcode
